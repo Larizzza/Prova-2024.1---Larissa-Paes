@@ -1,5 +1,8 @@
 # Prova-2024.1---Larissa-Paes
 
+* **Link para o Diagrama:** https://www.canva.com/design/DAGCbg4xyyo/-JjnSFQQbCcq0Wykv3y6Cw/edit
+* **Link para video de Gameplay:** https://youtu.be/002VUqn6uRw
+
 Movimento Horizontal:
 * Andar para a Esquerda: Setas ou teclas A, Q
 * Andar para a Direita: Setas ou teclas D
