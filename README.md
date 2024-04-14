@@ -21,7 +21,7 @@ Ataque:
 * Ataque para Cima: Pressionar J + Seta para Cima
 * Ataque para Baixo: Pressionar J + Seta para Baixo
 
-Agachar/Sorratear:
+Esgueirar-se:
 * Segurar K
 * Sorratear para a Esquerda/Direita: Segurar K + Andar para a Esquerda/Direita
 
