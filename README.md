@@ -26,7 +26,7 @@ Agachar/Sorratear:
 * Sorratear para a Esquerda/Direita: Segurar K + Andar para a Esquerda/Direita
 
 Escalar:
-Chegue perto da parede para poder fixar-se nela.
-Escalar para Cima: Seta para Cima
-Escalar para Baixo: Seta para Baixo
-Deslizar para Baixo: Segurar Shift + Seta para Cima/para Baixo
+* Chegue perto da parede para poder fixar-se nela
+* Escalar para Cima: Seta para Cima
+* Escalar para Baixo: Seta para Baixo
+* Deslizar para Baixo: Segurar Shift + Seta para Cima/para Baixo
